@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-03T18:35:27 MEZ" name="Suite" finished-at="2024-01-03T18:35:33 MEZ" duration-ms="6647">
+    <groups>
+    </groups>
+    <test started-at="2024-01-03T18:35:27 MEZ" name="Test" finished-at="2024-01-03T18:35:33 MEZ" duration-ms="6647">
+      <class name="testCases.TC_VedioGAmeAPI">
+        <test-method signature="test_GETallVedioGames()[pri:0, instance:testCases.TC_VedioGAmeAPI@7e5afaa6]" started-at="2024-01-03T18:35:27 MEZ" name="test_GETallVedioGames" finished-at="2024-01-03T18:35:30 MEZ" duration-ms="3442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GETallVedioGames -->
+        <test-method signature="test_AddaVedioGame()[pri:1, instance:testCases.TC_VedioGAmeAPI@7e5afaa6]" started-at="2024-01-03T18:35:30 MEZ" name="test_AddaVedioGame" finished-at="2024-01-03T18:35:31 MEZ" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddaVedioGame -->
+        <test-method signature="test_GETAvediogamebyID()[pri:2, instance:testCases.TC_VedioGAmeAPI@7e5afaa6]" started-at="2024-01-03T18:35:31 MEZ" name="test_GETAvediogamebyID" finished-at="2024-01-03T18:35:32 MEZ" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GETAvediogamebyID -->
+        <test-method signature="test_UpdateAGameinDB()[pri:3, instance:testCases.TC_VedioGAmeAPI@7e5afaa6]" started-at="2024-01-03T18:35:32 MEZ" name="test_UpdateAGameinDB" finished-at="2024-01-03T18:35:33 MEZ" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateAGameinDB -->
+        <test-method signature="test_DeleteGame()[pri:4, instance:testCases.TC_VedioGAmeAPI@7e5afaa6]" started-at="2024-01-03T18:35:33 MEZ" name="test_DeleteGame" finished-at="2024-01-03T18:35:33 MEZ" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteGame -->
+      </class> <!-- testCases.TC_VedioGAmeAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

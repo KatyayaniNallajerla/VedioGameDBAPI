@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.567" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI\target\test-classes;I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI\target\classes;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Ananta&apos;s\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\Ananta&apos;s\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Ananta&apos;s\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Ananta&apos;s\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Ananta&apos;s\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="user.country.format" value="DE"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\Ananta&apos;s\Desktop\Career\Testing\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Ananta&apos;s\AppData\Local\Temp\surefire15233305382040727061\surefirebooter-20240103183524742_3.jar C:\Users\Ananta&apos;s\AppData\Local\Temp\surefire15233305382040727061 2024-01-03T18-35-22_549-jvmRun1 surefire-20240103183524742_1tmp surefire_0-20240103183524742_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI\target\test-classes;I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI\target\classes;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Ananta&apos;s\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\Ananta&apos;s\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Ananta&apos;s\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\Ananta&apos;s\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Ananta&apos;s\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Ananta&apos;s\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\Ananta&apos;s\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Ananta&apos;s"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Users\Ananta&apos;s\Desktop\Career\Testing\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ananta&apos;s\AppData\Local\Temp\surefire15233305382040727061\surefirebooter-20240103183524742_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.9+9"/>
+    <property name="user.name" value="Ananta&apos;s"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.9+9"/>
+    <property name="localRepository" value="C:\Users\Ananta&apos;s\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ananta&apos;s\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="I:\Users\Ananta&apos;s\eclipse-workspace\VediogameDBAPI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="de"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\Ananta&apos;s\Desktop\Career\Testing\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/Ananta&apos;s/Desktop/Career/Testing/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin/server;C:/Users/Ananta&apos;s/Desktop/Career/Testing/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Ananta&apos;s\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Azure Data Studio\bin;C:\Users\Ananta&apos;s\AppData\Roaming\npm;C:\Users\Ananta&apos;s\Desktop\Career\Testing\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.9+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="test_GETallVedioGames" classname="testCases.TC_VedioGAmeAPI" time="3.442">
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="test_AddaVedioGame" classname="testCases.TC_VedioGAmeAPI" time="0.843">
+    <system-out><![CDATA[{
+    "id": 0,
+    "name": "SuperMario",
+    "releaseDate": "2022-05-04",
+    "reviewScore": 85,
+    "category": "Adventure",
+    "rating": "PG-21"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_GETAvediogamebyID" classname="testCases.TC_VedioGAmeAPI" time="1.518">
+    <system-out><![CDATA[{
+    "id": 5,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "releaseDate": "1998-12-10 23:59:59",
+    "reviewScore": 93,
+    "category": "Adventure",
+    "rating": "PG-13"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_UpdateAGameinDB" classname="testCases.TC_VedioGAmeAPI" time="0.619">
+    <system-out><![CDATA[<VideoGame category="Puzzle">
+  <id>5</id>
+  <name>Tetris</name>
+  <releaseDate>2022-05-04</releaseDate>
+  <reviewScore>93</reviewScore>
+  <rating>E-8</rating>
+</VideoGame>
+]]></system-out>
+  </testcase>
+  <testcase name="test_DeleteGame" classname="testCases.TC_VedioGAmeAPI" time="0.157">
+    <system-out><![CDATA[Video game deleted
+]]></system-out>
+  </testcase>
+</testsuite>
